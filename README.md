@@ -1,20 +1,75 @@
-<h1 align="center">Shaik Rafooz</h1>
+<h1 align="center">Hi 👋, I'm Shaik Rafooz</h1>
+<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems | C++ | Python</h3>
 
-**About Me**  
-I'm a curious engineer who enjoys understanding how things work at a fundamental level. I recently completed an algorithm for adaptive neuromorphic imaging in CMOS cameras.
+---
 
-**Skills**  
-- Programming: C, C++, Python  
-- Embedded systems & microcontroller programming  
+## 👨‍💻 About Me
 
-**Completed Project**  
-- Developed an algorithm for adaptive neuromorphic imaging on CMOS cameras.
+I'm an Electronics & Communication Engineering undergraduate with a strong interest in embedded systems, computer vision, and low-level software.
 
-**Learning**  
-Currently diving deeper into system internals and low-level functionality because understanding the "why" matters as much as the "how."
+I enjoy understanding systems from first principles and building practical solutions that bridge hardware and software. Recently, I developed an adaptive neuromorphic imaging algorithm for CMOS cameras as part of an engineering project.
 
-**Contact**  
-[LinkedIn](https://www.linkedin.com/in/rafoozshaik)
+---
 
-**Fun fact**  
-I'm broadly interested across domains and always open to collaborating on new problems — I learn best by building.
+## 🛠️ Technical Skills
+
+**Languages**
+- C
+- C++
+- Python
+
+**Core Areas**
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Embedded Systems
+- Microcontroller Programming
+- Computer Vision (Basics)
+
+**Tools**
+- Git & GitHub
+- VS Code
+- Arduino IDE
+- MATLAB (Basic)
+
+---
+
+## 🚀 Featured Project
+
+### Adaptive Neuromorphic Imaging for CMOS Cameras
+
+- Designed an adaptive thresholding algorithm inspired by neuromorphic vision.
+- Improved image processing by dynamically adjusting thresholds according to scene characteristics.
+- Explored concepts in computer vision, image processing, and embedded implementation.
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Data Structures & Algorithms
+- System Programming
+- Embedded Linux
+- RTOS
+- Computer Vision
+- Modern C++
+
+---
+
+## 🎯 Interests
+
+- Embedded Systems
+- Artificial Intelligence
+- Computer Vision
+- Operating Systems
+- System Design
+- Low-Level Programming
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: https://www.linkedin.com/in/rafoozshaik
+- 📧 Email: shaikrafooz@gmail.com
+
+---
+
+
