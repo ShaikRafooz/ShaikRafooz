@@ -1,75 +1,28 @@
-<h1 align="center">Hi 👋, I'm Shaik Rafooz</h1>
-<h3 align="center">Electronics & Communication Engineering Student | Embedded Systems | C++ | Python</h3>
+# Hi there, I'm Shaik Rafooz 👋
 
----
+### 🚀 About Me
 
-## 👨‍💻 About Me
+I am an Electronics and Communication Engineering student (CS Minor) who enjoys dissecting how systems work at a fundamental level. I specialize in bridging physical hardware and computational logic—from writing embedded firmware for flight controllers to optimizing computer vision algorithms for edge devices. I learn best by building, unlearning, and rebuilding.
 
-I'm an Electronics & Communication Engineering undergraduate with a strong interest in embedded systems, computer vision, and low-level software.
+### 🛠️ Tech Stack
 
-I enjoy understanding systems from first principles and building practical solutions that bridge hardware and software. Recently, I developed an adaptive neuromorphic imaging algorithm for CMOS cameras as part of an engineering project.
+* **Languages:** C, C++, Python
+* **Embedded & Hardware:** ESP32, MPU6050, I2C, UDP, PWM Control, QNX
+* **AI & Vision:** OpenCV, NumPy, Supervised Learning, LLMs
+* **Tools & Simulation:** MATLAB, Simulink, Git, Keil, Proteus
 
----
+### 🔭 Featured Work
 
-## 🛠️ Technical Skills
+* **Adaptive Threshold Imaging (ISRO RESPOND 2025):** Developed a NumPy-vectorized SIL pipeline simulating neuromorphic event generation on CMOS feeds, achieving 36 FPS and 90.3% data reduction on edge hardware.
+* **Quadcopter Flight Controller:** Engineered a custom drone and programmed a 6-axis PID stabilization control loop in Embedded C fusing MPU6050 IMU data. Achieved stable flight and aerial maneuverability with a thrust-to-weight ratio exceeding 2:1.
+* **IMU-Based 3D Drone Visualizer:** Streamed telemetry via UDP to render live aircraft attitude dynamics in MATLAB using Homogeneous Transformation Matrices. Achieved under 20ms transmission latency for real-time visual feedback.
 
-**Languages**
-- C
-- C++
-- Python
+### 🌱 Currently Exploring
 
-**Core Areas**
-- Data Structures & Algorithms
-- Object-Oriented Programming
-- Embedded Systems
-- Microcontroller Programming
-- Computer Vision (Basics)
+* Diving deeper into systems programming, low-level architecture, and open-source contribution workflows as Coordinator of the Vasavi Open Source Club.
+* Continuously expanding my knowledge base across diverse technical domains, blending software architecture with hardware constraints.
 
-**Tools**
-- Git & GitHub
-- VS Code
-- Arduino IDE
-- MATLAB (Basic)
+### 📫 Connect with me
 
----
-
-## 🚀 Featured Project
-
-### Adaptive Neuromorphic Imaging for CMOS Cameras
-
-- Designed an adaptive thresholding algorithm inspired by neuromorphic vision.
-- Improved image processing by dynamically adjusting thresholds according to scene characteristics.
-- Explored concepts in computer vision, image processing, and embedded implementation.
-
----
-
-## 🌱 Currently Learning
-
-- Advanced Data Structures & Algorithms
-- System Programming
-- Embedded Linux
-- RTOS
-- Computer Vision
-- Modern C++
-
----
-
-## 🎯 Interests
-
-- Embedded Systems
-- Artificial Intelligence
-- Computer Vision
-- Operating Systems
-- System Design
-- Low-Level Programming
-
----
-
-## 🤝 Let's Connect
-
-- 💼 LinkedIn: https://www.linkedin.com/in/rafoozshaik
-- 📧 Email: shaikrafooz@gmail.com
-
----
-
-
+* [LinkedIn](https://linkedin.com/in/rafoozshaik)
+* **Email:** shaikrafooz@gmail.com
