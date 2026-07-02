@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm an Electronics and Communication Engineering student (CS Minor) passionate about embedded systems, computer vision, and low-level software. I enjoy understanding systems from first principles and building projects that bridge hardware and software. I learn best by building, experimenting, and iterating.
+I'm an Electronics and Communication Engineering student pursuing a minor in Computer Science, passionate about embedded systems, computer vision, and low-level software. I enjoy understanding systems from first principles and building projects that bridge hardware and software. I learn best by building, experimenting, and iterating.
 
 ## 🛠️ Tech Stack
 
@@ -20,7 +20,7 @@ I'm an Electronics and Communication Engineering student (CS Minor) passionate a
 ## 🌱 Currently Exploring
 
 * Diving deeper into systems programming, low-level architecture, and open-source contribution workflows as Coordinator of the **Vasavi Open Source Club**.
-* Continuously expanding my knowledge base across diverse technical domains, blending software architecture with hardware constraints.
+* Continuously expanding my knowledge base across diverse technical domains, blending software design with hardware constraints.
 
 ## 🧠 Outside Engineering
 
