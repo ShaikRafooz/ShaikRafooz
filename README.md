@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm an Electronics and Communication Engineering student pursuing a minor in Computer Science, passionate about embedded systems, computer vision, and low-level software. I enjoy understanding systems from first principles and building projects that bridge hardware and software. I learn best by building, experimenting, and iterating.
+I'm a final year Electronics and Communication Engineering student pursuing a minor in Computer Science, passionate about embedded systems, computer vision, and low-level software. I enjoy understanding systems from first principles and building projects that bridge hardware and software. I learn best by building, experimenting, and iterating.
 
 ## 🛠️ Tech Stack
 
