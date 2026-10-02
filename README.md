@@ -14,12 +14,12 @@ I'm a final year Electronics and Communication Engineering student pursuing a mi
 ## 🔭 Featured Work
 
 * **Adaptive Neuromorphic Imaging for CMOS Cameras (ISRO RESPOND 2025):** Developed a NumPy-vectorized SIL pipeline simulating neuromorphic event generation on CMOS feeds, achieving 36 FPS and 90.3% data reduction on edge hardware.
-* **Quadcopter Flight Controller:** Engineered a custom drone and programmed a 6-axis PID stabilization control loop in Embedded C fusing MPU6050 IMU data. Achieved stable flight and aerial maneuverability with a thrust-to-weight ratio exceeding 2:1.
+* **Quadcopter Flight Controller:** Developed a custom drone flight controller and programmed a 6-axis PID stabilization control loop in Embedded C fusing MPU6050 IMU data. Achieved almost stable flight and aerial maneuverability.
 * **IMU-Based 3D Drone Visualizer:** Streamed telemetry via UDP to render live aircraft attitude dynamics in MATLAB using Homogeneous Transformation Matrices. Achieved under 20ms transmission latency for real-time visual feedback.
 
 ## 🌱 Currently Exploring
 
-* Diving deeper into systems programming, low-level architecture, and open-source contribution workflows as Coordinator of the **Vasavi Open Source Club**.
+* Diving deeper into systems programming, low-level architecture, and open-source contribution.
 * Continuously expanding my knowledge base across diverse technical domains, blending software design with hardware constraints.
 
 ## 🧠 Outside Engineering
