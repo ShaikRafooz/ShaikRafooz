@@ -13,7 +13,7 @@ I'm a final year Electronics and Communication Engineering student pursuing a mi
 
 ## 🔭 Featured Work
 
-* **Adaptive Neuromorphic Imaging for CMOS Cameras (ISRO RESPOND 2025):** Developed a NumPy-vectorized SIL pipeline simulating neuromorphic event generation on CMOS feeds, achieving 36 FPS and 90.3% data reduction on edge hardware.
+* **Adaptive Neuromorphic Imaging for Web Cameras :** Developed a NumPy-vectorized SIL pipeline simulating neuromorphic event generation on CMOS feeds, achieving around 22-28 FPS and 50% to 90% data reduction depending upon the movement in the scenario.
 * **Quadcopter Flight Controller:** Developed a custom drone flight controller and programmed a 6-axis PID stabilization control loop in Embedded C fusing MPU6050 IMU data. Achieved almost stable flight and aerial maneuverability.
 * **IMU-Based 3D Drone Visualizer:** Streamed telemetry via UDP to render live aircraft attitude dynamics in MATLAB using Homogeneous Transformation Matrices. Achieved under 20ms transmission latency for real-time visual feedback.
 
